@@ -14,8 +14,11 @@
     "react-dom": "18.1.0"
   },
   "devDependencies": {
+    "@babel/preset-env": "^7.18.2",
+    "@babel/preset-react": "^7.17.12",
     "@swc/cli": "^0.1.57",
     "@swc/core": "^1.2.198",
+    "babel-eslint": "^10.1.0",
     "eslint": "8.17.0",
     "eslint-config-next": "12.1.6"
   }
